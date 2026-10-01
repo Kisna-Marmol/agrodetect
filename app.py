@@ -114,7 +114,7 @@ if "historial" not in st.session_state:
 col_izq, col_der = st.columns([1, 1.3], gap="large")
 
 with col_izq:
-    st.title("🌿 Captura de Imagen Foliar - Kisna Marmol")
+    st.title("🌿 Captura de Imagen Foliar")
     st.caption(
         "Posicione la hoja de café bajo luz natural. El sistema detectará "
         "automáticamente signos de Roya, Cercospora o Plagas."
